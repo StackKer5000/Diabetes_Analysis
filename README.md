@@ -65,7 +65,6 @@ Bildungsstand, <br>
 Einkommensstufe<br>
 <br>
 2. Altersgruppen:<br>
-
 Altersgruppe Alter<br> 
 1: 18 - 24<br>
 2: 25 - 29<br>
@@ -81,7 +80,6 @@ Altersgruppe Alter<br>
 12: 75 - 79<br>
 13: 80 oder älter<br>
 <br>
-
 3. BMI-Einteilung nach WHO:<br>
 BMI_Kategorie Untergewicht < 18.5<br>
 Normalgewicht 18.5 - 24.9<br>
@@ -90,7 +88,6 @@ Adipositas Grad I 30.0 - 34.9<br>
 Adipositas Grad II 35.0 - 39.9<br>
 Adipositas Grad III >= 40.0<br>
 <br>
-
 4. Bildung und Einkommen<br>
 
 Eingruppierung Bildung<br>
