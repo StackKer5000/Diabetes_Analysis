@@ -89,7 +89,7 @@ Adipositas Grad II 35.0 - 39.9<br>
 Adipositas Grad III >= 40.0<br>
 <br>
 4. Bildung und Einkommen<br>
-
+<br>
 Eingruppierung Bildung<br>
 1 - Never attended school or only kindergarten<br>
 2 - Grades 1 through 8 (Elementary)<br>
