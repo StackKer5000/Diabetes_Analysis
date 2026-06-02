@@ -41,33 +41,34 @@ Das Regressionsmodell erzielt eine Erklärungsgüte von 20,15 Prozent (Pseudo-R-
 ## Benutzte Einteilungen aus dem Dataset Notebook
 
 1. Risikofaktoren<br>
-Diabetes_Status,<br>
- Bluthochdruck,<br>
- Cholesterin_hoch,<br>
- Cholesterin_Check,<br>
- BMI,<br> 
- Raucher_Status,<br> 
- Schlaganfall,<br> 
- Herzerkrankung_Infarkt,<br> 
- Sportliche_Aktivitaet,<br> 
- Obst_Konsum,<br> 
- Gemuese_Konsum,<br> 
- Hoher_Alkoholkonsum,<br> 
- Krankenversicherung,<br> 
- Kein_Arzt_wegen_Kosten,<br> 
- Allgemeine_Gesundheit,<br> 
- Psychische_Gesundheit,<br> 
- Koerperliche_Gesundheit,<br> 
- Einschraenkung_Gehen,<br> 
- Geschlecht,<br> 
- Altersgruppe,<br> 
- Bildungsstand, <br>
- Einkommensstufe<br>
 <br>
+Diabetes_Status,<br>
+Bluthochdruck,<br>
+Cholesterin_hoch,<br>
+Cholesterin_Check,<br>
+BMI,<br> 
+Raucher_Status,<br> 
+Schlaganfall,<br> 
+Herzerkrankung_Infarkt,<br> 
+Sportliche_Aktivitaet,<br> 
+Obst_Konsum,<br> 
+Gemuese_Konsum,<br> 
+Hoher_Alkoholkonsum,<br> 
+Krankenversicherung,<br> 
+Kein_Arzt_wegen_Kosten,<br> 
+Allgemeine_Gesundheit,<br> 
+Psychische_Gesundheit,<br> 
+Koerperliche_Gesundheit,<br> 
+Einschraenkung_Gehen,<br> 
+Geschlecht,<br> 
+Altersgruppe,<br> 
+Bildungsstand, <br>
+Einkommensstufe<br>
 <br>
 2. Altersgruppen:<br>
-
-Altersgruppe Alter 1: 18 - 24<br>
+<br>
+Altersgruppe Alter<br> 
+1: 18 - 24<br>
 2: 25 - 29<br>
 3: 30 - 34<br>
 4: 35 - 39<br>
@@ -81,9 +82,8 @@ Altersgruppe Alter 1: 18 - 24<br>
 12: 75 - 79<br>
 13: 80 oder aelter<br>
 <br>
-<br>
-3. BMI-Einteilung nach WHO:<br>
 
+3. BMI-Einteilung nach WHO:<br>
 BMI_Kategorie Untergewicht < 18.5<br>
 Normalgewicht 18.5 - 24.9<br>
 Uebergewicht 25.0 - 29.9<br>
@@ -91,9 +91,9 @@ Adipositas Grad I 30.0 - 34.9<br>
 Adipositas Grad II 35.0 - 39.9<br>
 Adipositas Grad III >= 40.0<br>
 <br>
-<br>
-4. Bildung und Einkommen<br>
 
+4. Bildung und Einkommen<br>
+<br>
 Eingruppierung Bildung<br>
 1 - Never attended school or only kindergarten<br>
 2 - Grades 1 through 8 (Elementary)<br>
