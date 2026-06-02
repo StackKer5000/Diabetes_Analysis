@@ -41,7 +41,7 @@ Das Regressionsmodell erzielt eine Erklärungsgüte von 20,15 Prozent (Pseudo-R-
 ## Benutzte Einteilungen aus dem Dataset Notebook
 
 1. Risikofaktoren<br>
-<br>
+
 Diabetes_Status,<br>
 Bluthochdruck,<br>
 Cholesterin_hoch,<br>
@@ -80,7 +80,7 @@ Altersgruppe Alter<br>
 10: 65 - 69<br>
 11: 70 - 74<br>
 12: 75 - 79<br>
-13: 80 oder aelter<br>
+13: 80 oder älter<br>
 <br>
 
 3. BMI-Einteilung nach WHO:<br>
@@ -93,7 +93,7 @@ Adipositas Grad III >= 40.0<br>
 <br>
 
 4. Bildung und Einkommen<br>
-<br>
+
 Eingruppierung Bildung<br>
 1 - Never attended school or only kindergarten<br>
 2 - Grades 1 through 8 (Elementary)<br>
