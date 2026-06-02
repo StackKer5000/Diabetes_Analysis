@@ -41,7 +41,6 @@ Das Regressionsmodell erzielt eine Erklärungsgüte von 20,15 Prozent (Pseudo-R-
 ## Benutzte Einteilungen aus dem Dataset Notebook
 
 1. Risikofaktoren<br>
-<br>
 Diabetes_Status,<br>
  Bluthochdruck,<br>
  Cholesterin_hoch,<br>
@@ -67,7 +66,7 @@ Diabetes_Status,<br>
 <br>
 <br>
 2. Altersgruppen:<br>
-<br>
+
 Altersgruppe Alter 1: 18 - 24<br>
 2: 25 - 29<br>
 3: 30 - 34<br>
@@ -84,7 +83,7 @@ Altersgruppe Alter 1: 18 - 24<br>
 <br>
 <br>
 3. BMI-Einteilung nach WHO:<br>
-<br>
+
 BMI_Kategorie Untergewicht < 18.5<br>
 Normalgewicht 18.5 - 24.9<br>
 Uebergewicht 25.0 - 29.9<br>
@@ -94,9 +93,8 @@ Adipositas Grad III >= 40.0<br>
 <br>
 <br>
 4. Bildung und Einkommen<br>
-<br>
+
 Eingruppierung Bildung<br>
-<br>
 1 - Never attended school or only kindergarten<br>
 2 - Grades 1 through 8 (Elementary)<br>
 3 - Grades 9 through 11 (Some high school)<br>
@@ -105,7 +103,6 @@ Eingruppierung Bildung<br>
 6 - College 4 years or more (College graduate)<br>
 <br>
 Eingruppierung Haushaltseinkommen<br>
-<br>
 1 - Less than $10,000<br>
 2 - Less than $15,000 ($10,000 to less than $15,000)<br>
 3 - Less than $20,000 ($15,000 to less than $20,000)<br>
