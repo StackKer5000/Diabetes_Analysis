@@ -41,7 +41,6 @@ Das Regressionsmodell erzielt eine Erklärungsgüte von 20,15 Prozent (Pseudo-R-
 ## Benutzte Einteilungen aus dem Dataset Notebook
 
 1. Risikofaktoren<br>
-
 Diabetes_Status,<br>
 Bluthochdruck,<br>
 Cholesterin_hoch,<br>
@@ -66,7 +65,7 @@ Bildungsstand, <br>
 Einkommensstufe<br>
 <br>
 2. Altersgruppen:<br>
-<br>
+
 Altersgruppe Alter<br> 
 1: 18 - 24<br>
 2: 25 - 29<br>
