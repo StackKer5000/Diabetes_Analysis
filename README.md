@@ -1,6 +1,6 @@
 ## Explorative Datenanalyse von Diabetes-Risikofaktoren
 
-Dieses GitHub-Projekt enthält die statistische Auswertung und Modellierung von Einflussgrößen auf den Diabetes-Status. Die Analyse basiert auf den Großbefragungsdaten des Behavioral Risk Factor Surveillance System (BRFSS) der US-amerikanischen Gesundheitsbehörde CDC. Aufbereitet wurde der Datensatz von Alex Teboul. Er enthält 253.680 Beobachtungen, 22 Spalten, ist vollständig besetzt ohne fehlende Werte. Die Zielvariable ist der binäre Diabetes_Status. 
+Dieses GitHub-Projekt enthält die statistische Auswertung und Modellierung von Einflussgrößen auf den Diabetes-Status. Die Analyse basiert auf den Großbefragungsdaten des Behavioral Risk Factor Surveillance System (BRFSS) der US-amerikanischen Gesundheitsbehörde CDC aus dem Jahr 2015. Aufbereitet wurde der Datensatz von Alex Teboul. Er enthält 253.680 Beobachtungen, 22 Spalten, ist vollständig besetzt ohne fehlende Werte. Die Zielvariable ist der binäre Diabetes_Status. 
 
 ## Projektstruktur
 
